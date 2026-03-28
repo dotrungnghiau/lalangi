@@ -13,7 +13,7 @@ class Hero extends ActionCharacter implements CanFLy, CanSwim, CanFight {
         System.out.println("bay");
     }
     public void swim(){
-        System.out.println("boi");
+        System.out.println("boiii");
     }
    // public void fight(){
   //      System.out.println("danh");
